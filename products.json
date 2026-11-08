@@ -1,0 +1,103 @@
+[
+  {
+    "id": "magnetic",
+    "name": "Magnetic Closure Boxes",
+    "category": "Luxury rigid",
+    "description": "A refined hinged presentation for gifts, apparel and premium products.",
+    "detail": "Finishes, inserts and dimensions tailored to your project.",
+    "images": [
+      "assets/product-02.jpg",
+      "assets/product-05.jpg",
+      "assets/product-06.jpg",
+      "assets/product-07.jpg"
+    ],
+    "image": "assets/product-02.jpg"
+  },
+  {
+    "id": "mailer",
+    "name": "Custom Mailer Boxes",
+    "category": "Mailer",
+    "description": "Make every delivery feel like your brand, from the outside in.",
+    "detail": "Printed exterior and interior options with a protective corrugated structure.",
+    "images": [
+      "assets/product-11.jpg",
+      "assets/product-12.jpg",
+      "assets/product-13.jpg",
+      "assets/product-14.jpg",
+      "assets/product-17.jpg"
+    ],
+    "image": "assets/product-11.jpg"
+  },
+  {
+    "id": "drawer",
+    "name": "Drawer Boxes",
+    "category": "Luxury rigid",
+    "description": "A considered reveal, with a smooth sliding drawer and ribbon pull.",
+    "detail": "Choose paper textures, color combinations and a fitted insert.",
+    "images": [
+      "assets/product-19.jpg",
+      "assets/product-21.jpg"
+    ],
+    "image": "assets/product-19.jpg"
+  },
+  {
+    "id": "perfume",
+    "name": "Perfume Boxes",
+    "category": "Specialty",
+    "description": "Presentation packaging designed around your fragrance bottle.",
+    "detail": "Discuss fitted protection, foil details and a coordinated color palette.",
+    "images": [
+      "assets/product-04.jpg"
+    ],
+    "image": "assets/product-04.jpg"
+  },
+  {
+    "id": "ribbon",
+    "name": "Ribbon Gift Boxes",
+    "category": "Gift",
+    "description": "Finish your next gifting collection with a beautiful ribbon closure.",
+    "detail": "Personalize the box, branding and ribbon to suit the occasion.",
+    "images": [
+      "assets/product-08.jpg"
+    ],
+    "image": "assets/product-08.jpg"
+  },
+  {
+    "id": "lid",
+    "name": "Two-Piece Rigid Boxes",
+    "category": "Luxury rigid",
+    "description": "A timeless lift-off lid for products that deserve a little ceremony.",
+    "detail": "Custom sizing, printed wraps and textured papers.",
+    "images": [
+      "assets/product-03.jpg",
+      "assets/product-09.jpg"
+    ],
+    "image": "assets/product-03.jpg"
+  },
+  {
+    "id": "insert",
+    "name": "Packaging Inserts",
+    "category": "Specialty",
+    "description": "Give every item its own place in a thoughtfully fitted interior.",
+    "detail": "Share your product dimensions to discuss layout and material options.",
+    "images": [
+      "assets/product-18.jpg",
+      "assets/product-15.jpg",
+      "assets/product-20.jpg"
+    ],
+    "image": "assets/product-18.jpg"
+  },
+  {
+    "id": "gift",
+    "name": "Printed Gift Boxes",
+    "category": "Gift",
+    "description": "Distinctive packaging for memorable launches and special occasions.",
+    "detail": "Build a coordinated presentation around your brand and product.",
+    "images": [
+      "assets/product-01.jpg",
+      "assets/product-10.jpg",
+      "assets/product-16.jpg"
+    ],
+    "image": "assets/product-01.jpg"
+  }
+]
